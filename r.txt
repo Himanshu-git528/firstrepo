@@ -1,3 +1,7 @@
-[master f60a42b] r for revert
- 1 file changed, 1 insertion(+)
- create mode 100644 r.txt
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   r.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
